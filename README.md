@@ -1,0 +1,2 @@
+# python_pokemon_aplication
+ポケモン用のウェブアプリケーション
